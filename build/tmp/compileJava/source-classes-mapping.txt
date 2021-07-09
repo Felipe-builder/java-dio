@@ -20,3 +20,11 @@ one/digitalinnovation/colletionsandstreams/list/test/ExempleList.java
  one.digitalinnovation.colletionsandstreams.list.test.ExempleList
 one/digitalinnovation/colletionsandstreams/list/test/ExercicioQueue.java
  one.digitalinnovation.colletionsandstreams.list.test.ExercicioQueue
+one/digitalinnovation/colletionsandstreams/list/test/ExempleHashSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.ExempleHashSet
+one/digitalinnovation/colletionsandstreams/list/test/ExempleLinkedHasSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.ExempleLinkedHasSet
+one/digitalinnovation/colletionsandstreams/list/test/ExempleTreeSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.ExempleTreeSet
+one/digitalinnovation/colletionsandstreams/list/test/ExercicioSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.ExercicioSet
