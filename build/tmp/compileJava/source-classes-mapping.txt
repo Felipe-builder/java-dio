@@ -1,30 +1,42 @@
-one/digitalinnovation/colletionsandstreams/list/test/ListTest.java
- one.digitalinnovation.colletionsandstreams.list.test.ListTest
-one/digitalinnovation/colletionsandstreams/list/test/EqualsTest.java
- one.digitalinnovation.colletionsandstreams.list.test.EqualsTest
-one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
- one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
-one/digitalinnovation/avancado/javafuncional/Aula.java
- one.digitalinnovation.avancado.javafuncional.Aula
-one/digitalinnovation/colletionsandstreams/list/test/ListCelularTest.java
- one.digitalinnovation.colletionsandstreams.list.test.ListCelularTest
-one/digitalinnovation/colletionsandstreams/list/test/ExempleLinkedList.java
- one.digitalinnovation.colletionsandstreams.list.test.ExempleLinkedList
 one/digitalinnovation/colletionsandstreams/list/classes/Celular.java
  one.digitalinnovation.colletionsandstreams.list.classes.Celular
-one/digitalinnovation/colletionsandstreams/list/test/ExercicioList.java
- one.digitalinnovation.colletionsandstreams.list.test.ExercicioList
-one/digitalinnovation/colletionsandstreams/list/test/ExempleVector.java
- one.digitalinnovation.colletionsandstreams.list.test.ExempleVector
-one/digitalinnovation/colletionsandstreams/list/test/ExempleList.java
- one.digitalinnovation.colletionsandstreams.list.test.ExempleList
-one/digitalinnovation/colletionsandstreams/list/test/ExercicioQueue.java
- one.digitalinnovation.colletionsandstreams.list.test.ExercicioQueue
-one/digitalinnovation/colletionsandstreams/list/test/ExempleHashSet.java
- one.digitalinnovation.colletionsandstreams.list.test.ExempleHashSet
-one/digitalinnovation/colletionsandstreams/list/test/ExempleLinkedHasSet.java
- one.digitalinnovation.colletionsandstreams.list.test.ExempleLinkedHasSet
-one/digitalinnovation/colletionsandstreams/list/test/ExempleTreeSet.java
- one.digitalinnovation.colletionsandstreams.list.test.ExempleTreeSet
-one/digitalinnovation/colletionsandstreams/list/test/ExercicioSet.java
- one.digitalinnovation.colletionsandstreams.list.test.ExercicioSet
+one/digitalinnovation/colletionsandstreams/list/test/set/ExempleLinkedHasSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.set.ExempleLinkedHasSet
+one/digitalinnovation/colletionsandstreams/list/test/map/ExempleTreeMap.java
+ one.digitalinnovation.colletionsandstreams.list.test.map.ExempleTreeMap
+one/digitalinnovation/colletionsandstreams/list/test/map/ExempleHashMap.java
+ one.digitalinnovation.colletionsandstreams.list.test.map.ExempleHashMap
+one/digitalinnovation/colletionsandstreams/list/test/ListTest.java
+ one.digitalinnovation.colletionsandstreams.list.test.ListTest
+one/digitalinnovation/colletionsandstreams/list/test/list/ExempleVector.java
+ one.digitalinnovation.colletionsandstreams.list.test.list.ExempleVector
+one/digitalinnovation/colletionsandstreams/list/test/list/ExempleList.java
+ one.digitalinnovation.colletionsandstreams.list.test.list.ExempleList
+one/digitalinnovation/colletionsandstreams/list/test/ListCelularTest.java
+ one.digitalinnovation.colletionsandstreams.list.test.ListCelularTest
+one/digitalinnovation/colletionsandstreams/list/test/EqualsTest.java
+ one.digitalinnovation.colletionsandstreams.list.test.EqualsTest
+one/digitalinnovation/colletionsandstreams/list/test/set/ExempleTreeSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.set.ExempleTreeSet
+one/digitalinnovation/colletionsandstreams/list/test/queue/ExempleLinkedList.java
+ one.digitalinnovation.colletionsandstreams.list.test.queue.ExempleLinkedList
+one/digitalinnovation/colletionsandstreams/list/test/set/ExempleHashSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.set.ExempleHashSet
+one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
+ one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
+one/digitalinnovation/colletionsandstreams/list/test/map/ExampleHashTable.java
+ one.digitalinnovation.colletionsandstreams.list.test.map.ExampleHashTable
+one/digitalinnovation/colletionsandstreams/list/test/queue/ExercicioQueue.java
+ one.digitalinnovation.colletionsandstreams.list.test.queue.ExercicioQueue
+one/digitalinnovation/colletionsandstreams/list/test/list/ExercicioList.java
+ one.digitalinnovation.colletionsandstreams.list.test.list.ExercicioList
+one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
+ one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
+one/digitalinnovation/avancado/javafuncional/Aula.java
+ one.digitalinnovation.avancado.javafuncional.Aula
+one/digitalinnovation/colletionsandstreams/list/test/set/ExercicioSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.set.ExercicioSet
+one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioHashMap.java
+ one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioHashMap
+one/digitalinnovation/colletionsandstreams/list/test/map/ExecicioHashTable.java
+ one.digitalinnovation.colletionsandstreams.list.test.map.ExecicioHashTable

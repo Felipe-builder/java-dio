@@ -1,4 +1,4 @@
-package one.digitalinnovation.colletionsandstreams.list.test;
+package one.digitalinnovation.colletionsandstreams.list.test.queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;

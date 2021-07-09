@@ -1,4 +1,4 @@
-package one.digitalinnovation.colletionsandstreams.list.test;
+package one.digitalinnovation.colletionsandstreams.list.test.list;
 
 import java.util.*;
 
