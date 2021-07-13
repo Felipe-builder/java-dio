@@ -1,7 +1,5 @@
 package one.digitalinnovation.colletionsandstreams.list.test;
 
-import one.digitalinnovation.colletionsandstreams.list.classes.Pessoa;
-
 import java.util.ArrayList;
 import java.util.List;
 

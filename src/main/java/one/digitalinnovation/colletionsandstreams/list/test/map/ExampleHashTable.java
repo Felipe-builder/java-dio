@@ -24,6 +24,7 @@ public class ExampleHashTable {
 
         System.out.println(estudantes);
 
+
         // Recupera um estudante no indice 2:
 
         int idadeEstudante = estudantes.get("Mariana");

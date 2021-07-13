@@ -6,7 +6,7 @@ import java.util.Map;
 public class ExempleHashMap {
     public static void main(String[] args) {
 
-        Map<String, Integer> campeoesMundialFifa = new HashMap<>();
+        HashMap<String, Integer> campeoesMundialFifa = new HashMap<>();
 
         // ADICIONA
         campeoesMundialFifa.put("Brasil", 5);
@@ -32,7 +32,7 @@ public class ExempleHashMap {
         System.out.println(campeoesMundialFifa.containsKey("França"));
 
         // Remove o campeão França
-        System.out.println(campeoesMundialFifa.remove("França"));
+        System.out.println("Remoendo frança: " +campeoesMundialFifa.remove("França"));
 
         // Retorna se existe ou não um campeão França
         System.out.println(campeoesMundialFifa.containsKey("França"));

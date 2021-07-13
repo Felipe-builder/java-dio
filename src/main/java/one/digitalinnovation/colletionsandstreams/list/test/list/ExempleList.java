@@ -16,9 +16,14 @@ public class ExempleList {
         nomes.add("Maria");
         nomes.add("Joao");
 
+
         System.out.println(nomes);
 
         nomes.set(2, "Larissa");
+
+        System.out.println(nomes);
+
+        nomes.add(2, "Lozir");
 
         System.out.println(nomes);
 
