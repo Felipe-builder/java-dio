@@ -1,9 +1,10 @@
-one/digitalinnovation/colletionsandstreams/list/test/comparators/ComparatorExampleList.java
- one.digitalinnovation.colletionsandstreams.list.test.comparators.ComparatorExampleList
+one/digitalinnovation/avancado/javafuncional/aula2/Supridores.java
+ one.digitalinnovation.avancado.javafuncional.aula2.Pessoa
+ one.digitalinnovation.avancado.javafuncional.aula2.Supridores
 one/digitalinnovation/colletionsandstreams/list/test/map/ExempleTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExempleTreeMap
-one/digitalinnovation/colletionsandstreams/list/test/comparators/EstudanteOrdemIdadeReversaComparator.java
- one.digitalinnovation.colletionsandstreams.list.test.comparators.EstudanteOrdemIdadeReversaComparator
+one/digitalinnovation/avancado/javafuncional/aula2/Predicados.java
+ one.digitalinnovation.avancado.javafuncional.aula2.Predicados
 one/digitalinnovation/colletionsandstreams/list/test/EqualsTest.java
  one.digitalinnovation.colletionsandstreams.list.test.EqualsTest
 one/digitalinnovation/colletionsandstreams/list/test/queue/ExempleLinkedList.java
@@ -39,8 +40,8 @@ one/digitalinnovation/colletionsandstreams/list/test/set/ExempleLinkedHasSet.jav
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleLinkedHasSet
 one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComLambda.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncaoComLambda
-one/digitalinnovation/colletionsandstreams/list/test/comparators/Estudante.java
- one.digitalinnovation.colletionsandstreams.list.test.comparators.Estudante
+one/digitalinnovation/avancado/javafuncional/aula2/Iteracoes.java
+ one.digitalinnovation.avancado.javafuncional.aula2.Iteracoes
 one/digitalinnovation/desafios/AnaliseDeNumeros.java
  one.digitalinnovation.desafios.AnaliseDeNumeros
 one/digitalinnovation/colletionsandstreams/list/test/map/ExempleHashMap.java
@@ -79,10 +80,25 @@ one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
 one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
  one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
-one/digitalinnovation/avancado/javafuncional/aula2/Predicados.java
- one.digitalinnovation.avancado.javafuncional.aula2.Predicados
-one/digitalinnovation/avancado/javafuncional/aula2/Supridores.java
- one.digitalinnovation.avancado.javafuncional.aula2.Pessoa
- one.digitalinnovation.avancado.javafuncional.aula2.Supridores
-one/digitalinnovation/avancado/javafuncional/aula2/Iteracoes.java
- one.digitalinnovation.avancado.javafuncional.aula2.Iteracoes
+one/digitalinnovation/colletionsandstreams/list/test/comparators/Estudante.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.Estudante
+one/digitalinnovation/colletionsandstreams/list/test/comparators/EstudanteOrdemIdadeReversaComparator.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.EstudanteOrdemIdadeReversaComparator
+one/digitalinnovation/colletionsandstreams/list/test/comparators/ComparatorExampleList.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.ComparatorExampleList
+one/digitalinnovation/colletionsandstreams/list/test/comparators/Funcionario.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.Funcionario
+one/digitalinnovation/colletionsandstreams/list/test/comparators/FuncionarioOrdemSalarioReversa.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.FuncionarioOrdemSalarioReversa
+one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeSet.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeSet
+one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioComparators.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioComparators
+one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeMap.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeMap
+one/digitalinnovation/colletionsandstreams/list/test/comparators/OptionalExempleEstado.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.OptionalExempleEstado
+one/digitalinnovation/colletionsandstreams/list/test/comparators/ExemploOptionalPrimitivos.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.ExemploOptionalPrimitivos
+one/digitalinnovation/colletionsandstreams/list/test/comparators/OptionalExemple.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.OptionalExemple
