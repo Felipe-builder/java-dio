@@ -1,4 +1,4 @@
-package one.digitalinnovation.colletionsandstreams.list.test.comparators;
+package one.digitalinnovation.colletionsandstreams.list.test.optional;
 
 import java.util.OptionalDouble;
 import java.util.OptionalInt;
