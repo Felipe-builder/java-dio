@@ -1,5 +1,7 @@
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ComparatorExampleList.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ComparatorExampleList
+one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
+ one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExemploOptionalPrimitivos.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.ExemploOptionalPrimitivos
 one/digitalinnovation/avancado/javafuncional/aula3/ThreadExemplo.java
@@ -93,6 +95,8 @@ one/digitalinnovation/avancado/javafuncional/aula1/Aula.java
  one.digitalinnovation.avancado.javafuncional.aula1.Aula$1
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao1
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao2
+one/digitalinnovation/avancado/javafuncional/aula5/InferenciaExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula5.InferenciaExemplo
 one/digitalinnovation/colletionsandstreams/list/test/map/ExampleHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExampleHashTable
 one/digitalinnovation/avancado/javafuncional/aula3/FutureExemple.java
@@ -125,8 +129,8 @@ one/digitalinnovation/colletionsandstreams/list/test/set/ExempleTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleTreeSet
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioHashMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioHashMap
-one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
- one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
+one/digitalinnovation/avancado/javafuncional/aula3/ParallelStreamsExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula3.ParallelStreamsExemplo
 one/digitalinnovation/colletionsandstreams/list/test/comparators/Funcionario.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.Funcionario
 one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComClasseAnonima.java
@@ -136,5 +140,16 @@ one/digitalinnovation/avancado/javafuncional/aula2/Consumidores.java
  one.digitalinnovation.avancado.javafuncional.aula2.Consumidores
 one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
  one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
-one/digitalinnovation/avancado/javafuncional/aula3/ParallelStreamsExemplo.java
- one.digitalinnovation.avancado.javafuncional.aula3.ParallelStreamsExemplo
+one/digitalinnovation/avancado/javafuncional/aula6/ClienteHttpExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo
+ one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo$1
+one/digitalinnovation/avancado/javafuncional/aula6/InferenciaLambda.java
+ one.digitalinnovation.avancado.javafuncional.aula6.InferenciaLambda
+one/digitalinnovation/avancado/javafuncional/aula6/StringIsBlank.java
+ one.digitalinnovation.avancado.javafuncional.aula6.StringIsBlank
+one/digitalinnovation/avancado/javafuncional/aula6/StringLinesExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula6.StringLinesExemplo
+one/digitalinnovation/avancado/javafuncional/aula6/CollectionExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula6.CollectionExemplo
+one/digitalinnovation/avancado/javafuncional/aula6/StringRepeat.java
+ one.digitalinnovation.avancado.javafuncional.aula6.StringRepeat
