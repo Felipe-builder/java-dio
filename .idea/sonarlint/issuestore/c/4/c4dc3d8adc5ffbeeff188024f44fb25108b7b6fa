@@ -1,0 +1,22 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ûÚè
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ûÚè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ä§šûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¡í×ì
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ùşÚãüÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¡í×ì
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(„ùÔ˜
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(«ê´Øüÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(ûÚè
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Ÿô¤
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ã€‡’
+I
+java:S28646"4Iterate over the "entrySet" instead of the "keySet".(÷•¹v
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(²ï“ê
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(ûÚè
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Õßñˆ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(öö«
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(«ê´Øüÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(«ê´Øüÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "FranÃ§a" 4 times.(•Ôû ûÿÿÿÿ

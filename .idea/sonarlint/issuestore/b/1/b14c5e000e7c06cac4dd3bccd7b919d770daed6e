@@ -1,0 +1,20 @@
+
+8
+java:S1659"#Declare "color" on a separate line.(¿ ð
+7
+java:S1659""Declare "size" on a separate line.(¿ ð
+B
+java:S1481",Remove this unused "details" local variable.(Ä“§–
+F
+java:S1481"+Remove this unused "tshirt" local variable.(¸Ó¡µþÿÿÿÿ
+D
+java:S1481".Remove this unused "firstCase" local variable.( Ìù»
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ëû•Ùúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿîƒ÷
+Q	java:S125"<This block of commented-out lines of code should be removed.(œ¸¹Ú
+{
+java:S1210B"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ª¹‚Œûÿÿÿÿ8òÐ“Ò¶/
+]	java:S125G"<This block of commented-out lines of code should be removed.(éÁå÷þÿÿÿÿ8âÐŠÒ¶/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‰”Ò¶/
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì‹æ

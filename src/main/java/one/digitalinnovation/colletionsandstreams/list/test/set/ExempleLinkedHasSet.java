@@ -15,6 +15,7 @@ public class ExempleLinkedHasSet {
         sequanciaNumerica.add(2);
         sequanciaNumerica.add(8);
         sequanciaNumerica.add(4);
+        sequanciaNumerica.add(4);
 
         System.out.println(sequanciaNumerica);
 

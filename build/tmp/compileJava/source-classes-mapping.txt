@@ -1,7 +1,8 @@
+one/digitalinnovation/avancado/javafuncional/aula6/ClienteHttpExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo
+ one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo$1
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ComparatorExampleList.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ComparatorExampleList
-one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
- one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExemploOptionalPrimitivos.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.ExemploOptionalPrimitivos
 one/digitalinnovation/avancado/javafuncional/aula3/ThreadExemplo.java
@@ -18,12 +19,14 @@ one/digitalinnovation/colletionsandstreams/list/test/optional/OptionalExempleEst
  one.digitalinnovation.colletionsandstreams.list.test.optional.OptionalExempleEstado
 one/digitalinnovation/avancado/javafuncional/aula2/Iteracoes.java
  one.digitalinnovation.avancado.javafuncional.aula2.Iteracoes
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
 one/digitalinnovation/avancado/javafuncional/aula1/FuncoesPura.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncoesPura
-one/digitalinnovation/avancado/javafuncional/aula2/Funcoes.java
- one.digitalinnovation.avancado.javafuncional.aula2.Funcoes
 one/digitalinnovation/avancado/javafuncional/aula1/FatorialMemoization.java
  one.digitalinnovation.avancado.javafuncional.aula1.FatorialMemoization
+one/digitalinnovation/avancado/javafuncional/aula2/Funcoes.java
+ one.digitalinnovation.avancado.javafuncional.aula2.Funcoes
 one/digitalinnovation/colletionsandstreams/list/test/queue/ExercicioQueue.java
  one.digitalinnovation.colletionsandstreams.list.test.queue.ExercicioQueue
 one/digitalinnovation/avancado/javafuncional/aula1/Imutabilidade.java
@@ -32,10 +35,14 @@ one/digitalinnovation/colletionsandstreams/list/test/set/ExercicioSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExercicioSet
 one/digitalinnovation/avancado/javafuncional/aula1/FatorialRecursivo.java
  one.digitalinnovation.avancado.javafuncional.aula1.FatorialRecursivo
-one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeMap.java
- one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeMap
+one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
+ one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
 one/digitalinnovation/avancado/javafuncional/aula1/Funcao.java
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao
+one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeMap.java
+ one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeMap
+one/digitalinnovation/avancado/javafuncional/aula6/InferenciaLambda.java
+ one.digitalinnovation.avancado.javafuncional.aula6.InferenciaLambda
 one/digitalinnovation/colletionsandstreams/list/classes/Celular.java
  one.digitalinnovation.colletionsandstreams.list.classes.Celular
 one/digitalinnovation/colletionsandstreams/list/test/set/ExempleLinkedHasSet.java
@@ -44,10 +51,12 @@ one/digitalinnovation/desafios/ConsumoMedioDoAutomovel.java
  one.digitalinnovation.desafios.ConsumoMedioDoAutomovel
 one/digitalinnovation/colletionsandstreams/list/test/comparators/Estudante.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.Estudante
-one/digitalinnovation/colletionsandstreams/list/test/ListTest.java
- one.digitalinnovation.colletionsandstreams.list.test.ListTest
+one/digitalinnovation/desafios/ComprasNoSupermercado.java
+ one.digitalinnovation.desafios.ComprasNoSupermercado
 one/digitalinnovation/avancado/javafuncional/aula1/FatorialTailCall.java
  one.digitalinnovation.avancado.javafuncional.aula1.FatorialTailCall
+one/digitalinnovation/colletionsandstreams/list/test/ListTest.java
+ one.digitalinnovation.colletionsandstreams.list.test.ListTest
 one/digitalinnovation/colletionsandstreams/list/test/ListCelularTest.java
  one.digitalinnovation.colletionsandstreams.list.test.ListCelularTest
 one/digitalinnovation/avancado/javafuncional/aula1/ComposicaoDeFuncoes.java
@@ -56,10 +65,12 @@ one/digitalinnovation/colletionsandstreams/list/test/optional/OptionalExemple.ja
  one.digitalinnovation.colletionsandstreams.list.test.optional.OptionalExemple
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeSet
-one/digitalinnovation/colletionsandstreams/list/test/list/ExercicioList.java
- one.digitalinnovation.colletionsandstreams.list.test.list.ExercicioList
+one/digitalinnovation/desafios/OrdenandoNumerosParesEImpares.java
+ one.digitalinnovation.desafios.OrdenandoNumerosParesEImpares
 one/digitalinnovation/colletionsandstreams/list/test/map/ExecicioHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExecicioHashTable
+one/digitalinnovation/colletionsandstreams/list/test/list/ExercicioList.java
+ one.digitalinnovation.colletionsandstreams.list.test.list.ExercicioList
 one/digitalinnovation/avancado/javafuncional/aula2/FuncaoAltaOrdem.java
  one.digitalinnovation.avancado.javafuncional.aula2.Calculo
  one.digitalinnovation.avancado.javafuncional.aula2.FuncaoAltaOrdem
@@ -79,13 +90,15 @@ one/digitalinnovation/colletionsandstreams/list/test/map/ExempleTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExempleTreeMap
 one/digitalinnovation/colletionsandstreams/list/test/comparators/EstudanteOrdemIdadeReversaComparator.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.EstudanteOrdemIdadeReversaComparator
+one/digitalinnovation/avancado/javafuncional/aula6/StringIsBlank.java
+ one.digitalinnovation.avancado.javafuncional.aula6.StringIsBlank
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExercicioOptional.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.ExercicioOptional
-one/digitalinnovation/colletionsandstreams/list/test/queue/ExempleLinkedList.java
- one.digitalinnovation.colletionsandstreams.list.test.queue.ExempleLinkedList
 one/digitalinnovation/avancado/javafuncional/aula2/Supridores.java
  one.digitalinnovation.avancado.javafuncional.aula2.Pessoa
  one.digitalinnovation.avancado.javafuncional.aula2.Supridores
+one/digitalinnovation/colletionsandstreams/list/test/queue/ExempleLinkedList.java
+ one.digitalinnovation.colletionsandstreams.list.test.queue.ExempleLinkedList
 one/digitalinnovation/colletionsandstreams/list/test/set/ExempleHashSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleHashSet
 one/digitalinnovation/colletionsandstreams/list/test/stream/ExemploStreamAPI.java
@@ -97,8 +110,12 @@ one/digitalinnovation/avancado/javafuncional/aula1/Aula.java
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao2
 one/digitalinnovation/avancado/javafuncional/aula5/InferenciaExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula5.InferenciaExemplo
+one/digitalinnovation/avancado/javafuncional/aula6/StringRepeat.java
+ one.digitalinnovation.avancado.javafuncional.aula6.StringRepeat
 one/digitalinnovation/colletionsandstreams/list/test/map/ExampleHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExampleHashTable
+one/digitalinnovation/avancado/javafuncional/aula6/CollectionExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula6.CollectionExemplo
 one/digitalinnovation/avancado/javafuncional/aula3/FutureExemple.java
  one.digitalinnovation.avancado.javafuncional.aula3.Atividade
  one.digitalinnovation.avancado.javafuncional.aula3.Casa
@@ -127,10 +144,15 @@ one/digitalinnovation/colletionsandstreams/list/test/list/ExempleList.java
  one.digitalinnovation.colletionsandstreams.list.test.list.ExempleList
 one/digitalinnovation/colletionsandstreams/list/test/set/ExempleTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleTreeSet
+one/digitalinnovation/desafios/UniformesDeFinalDeAno.java
+ one.digitalinnovation.desafios.Tshirt
+ one.digitalinnovation.desafios.UniformesDeFinalDeAno
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioHashMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioHashMap
 one/digitalinnovation/avancado/javafuncional/aula3/ParallelStreamsExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula3.ParallelStreamsExemplo
+one/digitalinnovation/avancado/javafuncional/aula6/StringLinesExemplo.java
+ one.digitalinnovation.avancado.javafuncional.aula6.StringLinesExemplo
 one/digitalinnovation/colletionsandstreams/list/test/comparators/Funcionario.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.Funcionario
 one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComClasseAnonima.java
@@ -138,18 +160,17 @@ one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComClasseAnonima.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncaoComClasseAnonima$1
 one/digitalinnovation/avancado/javafuncional/aula2/Consumidores.java
  one.digitalinnovation.avancado.javafuncional.aula2.Consumidores
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
-one/digitalinnovation/avancado/javafuncional/aula6/ClienteHttpExemplo.java
- one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo
- one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo$1
-one/digitalinnovation/avancado/javafuncional/aula6/InferenciaLambda.java
- one.digitalinnovation.avancado.javafuncional.aula6.InferenciaLambda
-one/digitalinnovation/avancado/javafuncional/aula6/StringIsBlank.java
- one.digitalinnovation.avancado.javafuncional.aula6.StringIsBlank
-one/digitalinnovation/avancado/javafuncional/aula6/StringLinesExemplo.java
- one.digitalinnovation.avancado.javafuncional.aula6.StringLinesExemplo
-one/digitalinnovation/avancado/javafuncional/aula6/CollectionExemplo.java
- one.digitalinnovation.avancado.javafuncional.aula6.CollectionExemplo
-one/digitalinnovation/avancado/javafuncional/aula6/StringRepeat.java
- one.digitalinnovation.avancado.javafuncional.aula6.StringRepeat
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula1/MeuObj.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula1.MeuObj
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula1/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula1.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/No.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula2.No
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula2.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/No.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.No
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Pilha.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.Pilha
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.Main

@@ -1,0 +1,39 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÜêªûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¿›æùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºøê˜üÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ¥ì€
+I
+java:S1611$"3Remove the parentheses around the "valor" parameter(µÉÕ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(˜ïÊ‚úÿÿÿÿ
+H
+java:S1611("2Remove the parentheses around the "nome" parameter(¡«÷á
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ïÃı¢
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ûàÕ³şÿÿÿÿ
+<
+java:S38641"!Remove this use of "Stream.peek".(ºğ÷ıÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ºğ÷ıÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(êù¬à
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(û¼÷ºúÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ùõï§
+R
+java:S16119"7Remove the parentheses around the "estudante" parameter(«ıäĞüÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(âÖ™Ñ
+R
+java:S1611="7Remove the parentheses around the "estudante" parameter(ã¢Ã„üÿÿÿÿ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(íŸİ 
+R
+java:S1611A"7Remove the parentheses around the "estudante" parameter(š«ê‹øÿÿÿÿ
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(—¼Ô'
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ç‰“Åûÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¢ö¹
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(§Ö‘ÿÿÿÿÿ
+7
+java:S3864K"!Remove this use of "Stream.peek".(ßˆ±ö
+<
+java:S3864I"!Remove this use of "Stream.peek".(§Ö‘ÿÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(§Ö‘ÿÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+L
+java:S1611L"7Remove the parentheses around the "estudante" parameter(¿˜™C
+V	java:S125M"<This block of commented-out lines of code should be removed.(šÊ”Ïùÿÿÿÿ
