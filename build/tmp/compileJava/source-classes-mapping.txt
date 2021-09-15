@@ -174,3 +174,9 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Pilha.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.Pilha
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/No.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.No
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/Fila.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.Fila
