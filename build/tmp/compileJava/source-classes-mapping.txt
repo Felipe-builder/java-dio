@@ -180,3 +180,9 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.No
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/Fila.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.Fila
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/No.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.No
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/ListaEncadeada.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.ListaEncadeada
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.Main
