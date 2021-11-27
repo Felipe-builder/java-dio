@@ -224,3 +224,15 @@ one/digitalinnovation/desafios/CombinacaoDeStrings.java
  one.digitalinnovation.desafios.CombinacaoDeStrings
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula10/MainPilha.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula10.MainPilha
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula11/Carro.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula11.Carro
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula11/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula11.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula13/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula13.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula13/Carro.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula13.Carro
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula12/Carro.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula12.Carro
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula12/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula12.Main
