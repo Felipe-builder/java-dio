@@ -186,3 +186,41 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/ListaEncadeada.jav
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.ListaEncadeada
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula6/NoDuplo.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula6.NoDuplo
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula6/ListaDuplamenteEncadeada.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula6.ListaDuplamenteEncadeada
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula6/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula6.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula7/No.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula7.No
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula7/ListaCircular.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula7.ListaCircular
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula7/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula7.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/BinNo.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.BinNo
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/Obj.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.model.Obj
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/ArvoreBinaria.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.ArvoreBinaria
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/ObjArvore.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.model.ObjArvore
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Carro.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Carro
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/MainPilha.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.MainPilha
+one/digitalinnovation/desafios/ACorridaDeTartarugas.java
+ one.digitalinnovation.desafios.ACorridaDeTartarugas
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula10/Carro.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula10.Carro
+one/digitalinnovation/desafios/EncaixaOuNao.java
+ one.digitalinnovation.desafios.EncaixaOuNao
+one/digitalinnovation/desafios/CombinacaoDeStrings.java
+ one.digitalinnovation.desafios.CombinacaoDeStrings
+one/digitalinnovation/estruturadedados/conceitosbasicos/aula10/MainPilha.java
+ one.digitalinnovation.estruturadedados.conceitosbasicos.aula10.MainPilha
