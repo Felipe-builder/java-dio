@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">**CURSO DE JAVA - Digital Innovation One!** 🚀</p>
+<p align="center"><b>CURSO DE JAVA - Digital Innovation One!</b> 🚀</p>
 
 <div align="center">
 
