@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![java](https://img.shields.io/badge/openJDK-v%2011.0.11-orange?style=for-the-badge&logo=java)](https://www.oracle.com/java/technologies/downloads/#java11)<space><space>
+<a href="https://www.oracle.com/java/technologies/downloads/#java11"><img src="https://img.shields.io/badge/openJDK-v%2011.0.11-orange?style=for-the-badge&logo=java"/></a>
 </div>
 
   <h1 align="center">Java - DIO</h1>
