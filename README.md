@@ -13,10 +13,14 @@
 
   <h1 align="center">Java - DIO</h1>
   <p align="center" style="indent-text">Este repositório contém todos os cursos e Bootcamps da <a href="https://web.dio.me/home">Digital Innovation One</a> referente a Tecnologia Java.<p>
-  
-## **Overview**
 
-### Cursos:
+<h2><b>Pré-requistos</b></h2>
+- [x] java JDK 11
+- [x] IDE para desenvimento Java
+- [x] Conhecer a sintaxe Java
+
+
+<h3>Cursos: </h3>
 
 <!--ts-->
   * Ecossistema e Documentação
