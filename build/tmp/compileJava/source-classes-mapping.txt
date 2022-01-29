@@ -276,3 +276,7 @@ one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exerci
  one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.arrays.Ex3_NumerosAleatorios
 one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/arrays/Ex4_ArrayMultidimensional.java
  one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.arrays.Ex4_ArrayMultidimensional
+one/digitalinnovation/desafios/MultiplicacaoSimples.java
+ one.digitalinnovation.desafios.MultiplicacaoSimples
+one/digitalinnovation/desafios/Resto2.java
+ one.digitalinnovation.desafios.Resto2
