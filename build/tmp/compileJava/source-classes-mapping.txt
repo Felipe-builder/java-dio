@@ -280,3 +280,11 @@ one/digitalinnovation/desafios/MultiplicacaoSimples.java
  one.digitalinnovation.desafios.MultiplicacaoSimples
 one/digitalinnovation/desafios/Resto2.java
  one.digitalinnovation.desafios.Resto2
+one/digitalinnovation/desafios/Xadrez.java
+ one.digitalinnovation.desafios.Xadrez
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Fundamentos/Livro.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Fundamentos.Livro
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Fundamentos/Carro.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Fundamentos.Carro
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Fundamentos/RodarAplicacao.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Fundamentos.RodarAplicacao
