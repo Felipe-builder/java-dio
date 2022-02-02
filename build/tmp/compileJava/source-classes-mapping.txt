@@ -314,3 +314,31 @@ one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/polimorfismo/Cla
  one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.polimorfismo.ClasseFilha2
 one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/polimorfismo/AppPolimorfismo.java
  one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.polimorfismo.AppPolimorfismo
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/outropacote/Classe2.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.outropacote.Classe2
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/umpacote/Classe4.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.umpacote.Classe4
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Compra.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Compra
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Pessoa.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Pessoa
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/interfaces/Calculadora.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.interfaces.Calculadora
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Disciplina.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Disciplina
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Endereco.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Endereco
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/outropacote/Classe1.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.outropacote.Classe1
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/outropacote/Classe3.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.outropacote.Classe3
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/interfaces/OperacaoMatematica.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.interfaces.OperacaoMatematica
+one/digitalinnovation/desafios/BatalhaDigitrons.java
+ one.digitalinnovation.desafios.BatalhaDigitrons
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Aluno.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Aluno
+one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Cupom.java
+ one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Cupom
+one/digitalinnovation/desafios/Lanche.java
+ one.digitalinnovation.desafios.Lanche
