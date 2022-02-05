@@ -1,3 +1,7 @@
+one/digitalinnovation/gft4java/entendendo_metodos/criacao/Horario.java
+ one.digitalinnovation.gft4java.entendendo_metodos.criacao.Horario
+one/digitalinnovation/gft4java/entendendo_metodos/sobrecarga/Quadrilatero.java
+ one.digitalinnovation.gft4java.entendendo_metodos.sobrecarga.Quadrilatero
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.No
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExemploOptionalPrimitivos.java
@@ -8,40 +12,66 @@ one/digitalinnovation/avancado/javafuncional/aula3/ThreadExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula3.BarraDeCarregamento3
  one.digitalinnovation.avancado.javafuncional.aula3.GerarPDF
  one.digitalinnovation.avancado.javafuncional.aula3.ThreadExemplo
+one/digitalinnovation/gft4java/POO/Relacoes/polimorfismo/ClasseMae.java
+ one.digitalinnovation.gft4java.POO.Relacoes.polimorfismo.ClasseMae
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula6/ListaDuplamenteEncadeada.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula6.ListaDuplamenteEncadeada
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula7/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula7.No
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex2_Nota.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex2_Nota
 one/digitalinnovation/colletionsandstreams/list/test/optional/OptionalExempleEstado.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.OptionalExempleEstado
 one/digitalinnovation/avancado/javafuncional/aula2/Iteracoes.java
  one.digitalinnovation.avancado.javafuncional.aula2.Iteracoes
+one/digitalinnovation/gft4java/POO/Relacoes/herancas/Vendedor.java
+ one.digitalinnovation.gft4java.POO.Relacoes.herancas.Vendedor
+one/digitalinnovation/gft4java/POO/Relacoes/visibilidades/outropacote/Classe1.java
+ one.digitalinnovation.gft4java.POO.Relacoes.visibilidades.outropacote.Classe1
 one/digitalinnovation/avancado/javafuncional/aula1/FuncoesPura.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncoesPura
 one/digitalinnovation/avancado/javafuncional/aula1/FatorialMemoization.java
  one.digitalinnovation.avancado.javafuncional.aula1.FatorialMemoization
+one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Endereco.java
+ one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Endereco
+one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Pessoa.java
+ one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Pessoa
+one/digitalinnovation/gft4java/POO/Relacoes/polimorfismo/AppPolimorfismo.java
+ one.digitalinnovation.gft4java.POO.Relacoes.polimorfismo.AppPolimorfismo
 one/digitalinnovation/colletionsandstreams/list/test/queue/ExercicioQueue.java
  one.digitalinnovation.colletionsandstreams.list.test.queue.ExercicioQueue
+one/digitalinnovation/gft4java/entendendo_metodos/criacao/Exercicio1.java
+ one.digitalinnovation.gft4java.entendendo_metodos.criacao.Exercicio1
 one/digitalinnovation/avancado/javafuncional/aula1/Imutabilidade.java
  one.digitalinnovation.avancado.javafuncional.aula1.Imutabilidade
+one/digitalinnovation/gft4java/POO/Relacoes/visibilidades/umpacote/Classe4.java
+ one.digitalinnovation.gft4java.POO.Relacoes.visibilidades.umpacote.Classe4
 one/digitalinnovation/avancado/javafuncional/aula1/FatorialRecursivo.java
  one.digitalinnovation.avancado.javafuncional.aula1.FatorialRecursivo
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.Main
+one/digitalinnovation/gft4java/POO/Relacoes/visibilidades/outropacote/Classe2.java
+ one.digitalinnovation.gft4java.POO.Relacoes.visibilidades.outropacote.Classe2
+one/digitalinnovation/desafios/Resto2.java
+ one.digitalinnovation.desafios.Resto2
 one/digitalinnovation/avancado/javafuncional/aula6/InferenciaLambda.java
  one.digitalinnovation.avancado.javafuncional.aula6.InferenciaLambda
 one/digitalinnovation/desafios/ConsumoMedioDoAutomovel.java
  one.digitalinnovation.desafios.ConsumoMedioDoAutomovel
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex3_MaiorEMedia.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex3_MaiorEMedia
 one/digitalinnovation/colletionsandstreams/list/test/comparators/Estudante.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.Estudante
 one/digitalinnovation/desafios/ComprasNoSupermercado.java
  one.digitalinnovation.desafios.ComprasNoSupermercado
+one/digitalinnovation/gft4java/POO/Relacoes/interfaces/OperacaoMatematica.java
+ one.digitalinnovation.gft4java.POO.Relacoes.interfaces.OperacaoMatematica
 one/digitalinnovation/avancado/javafuncional/aula1/ComposicaoDeFuncoes.java
  one.digitalinnovation.avancado.javafuncional.aula1.ComposicaoDeFuncoes
 one/digitalinnovation/colletionsandstreams/list/test/optional/OptionalExemple.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.OptionalExemple
-one/digitalinnovation/ecossistemaEDocumentacaoJava/base/Order.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.base.Order
+one/digitalinnovation/gft4java/entendendo_metodos/criacao/Exercicio3.java
+ one.digitalinnovation.gft4java.entendendo_metodos.criacao.Exercicio3
 one/digitalinnovation/desafios/OrdenandoNumerosParesEImpares.java
  one.digitalinnovation.desafios.OrdenandoNumerosParesEImpares
 one/digitalinnovation/colletionsandstreams/list/test/list/ExercicioList.java
@@ -59,6 +89,8 @@ one/digitalinnovation/avancado/javafuncional/aula3/FutureExemplo1.java
  one.digitalinnovation.avancado.javafuncional.aula3.Quarto1
 one/digitalinnovation/avancado/javafuncional/aula2/Predicados.java
  one.digitalinnovation.avancado.javafuncional.aula2.Predicados
+one/digitalinnovation/gft4java/entendendo_metodos/criacao/Calculadora.java
+ one.digitalinnovation.gft4java.entendendo_metodos.criacao.Calculadora
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula6/NoDuplo.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula6.NoDuplo
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/BinNo.java
@@ -67,10 +99,16 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula13/Carro.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula13.Carro
 one/digitalinnovation/desafios/ContagemDeCedulas.java
  one.digitalinnovation.desafios.ContagemDeCedulas
+one/digitalinnovation/gft4java/entendendo_metodos/criacao/Emprestimo.java
+ one.digitalinnovation.gft4java.entendendo_metodos.criacao.Emprestimo
 one/digitalinnovation/avancado/javafuncional/aula6/StringIsBlank.java
  one.digitalinnovation.avancado.javafuncional.aula6.StringIsBlank
+one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Compra.java
+ one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Compra
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExercicioOptional.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.ExercicioOptional
+one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Disciplina.java
+ one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Disciplina
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula2.No
 one/digitalinnovation/colletionsandstreams/list/test/set/ExempleHashSet.java
@@ -80,8 +118,12 @@ one/digitalinnovation/avancado/javafuncional/aula1/Aula.java
  one.digitalinnovation.avancado.javafuncional.aula1.Aula$1
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao1
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao2
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex5_Tabuada.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex5_Tabuada
 one/digitalinnovation/colletionsandstreams/list/test/map/ExampleHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExampleHashTable
+one/digitalinnovation/gft4java/entendendo_metodos/sobrecarga/Main.java
+ one.digitalinnovation.gft4java.entendendo_metodos.sobrecarga.Main
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula13/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula13.Main
 one/digitalinnovation/avancado/javafuncional/aula3/FutureExemple.java
@@ -94,33 +136,51 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/ArvoreBinaria.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.ArvoreBinaria
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.Main
+one/digitalinnovation/desafios/BatalhaDigitrons.java
+ one.digitalinnovation.desafios.BatalhaDigitrons
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioComparators.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioComparators
+one/digitalinnovation/gft4java/POO/Fundamentos/RodarAplicacao.java
+ one.digitalinnovation.gft4java.POO.Fundamentos.RodarAplicacao
 one/digitalinnovation/desafios/QuantidadeDeNumerosPositivos.java
  one.digitalinnovation.desafios.QuantidadeDeNumerosPositivos
 one/digitalinnovation/desafios/ExebindoNumerosPares.java
  one.digitalinnovation.desafios.ExebindoNumerosPares
 one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComLambda.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncaoComLambda
+one/digitalinnovation/gft4java/POO/Relacoes/herancas/Gerente.java
+ one.digitalinnovation.gft4java.POO.Relacoes.herancas.Gerente
 one/digitalinnovation/desafios/AnaliseDeNumeros.java
  one.digitalinnovation.desafios.AnaliseDeNumeros
+one/digitalinnovation/gft4java/POO/Relacoes/conceitos/Caminhao.java
+ one.digitalinnovation.gft4java.POO.Relacoes.conceitos.Caminhao
 one/digitalinnovation/colletionsandstreams/list/test/map/ExempleHashMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExempleHashMap
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.Main
+one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Cupom.java
+ one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Cupom
 one/digitalinnovation/colletionsandstreams/list/test/list/ExempleList.java
  one.digitalinnovation.colletionsandstreams.list.test.list.ExempleList
+one/digitalinnovation/gft4java/POO/Relacoes/herancas/Faxineiro.java
+ one.digitalinnovation.gft4java.POO.Relacoes.herancas.Faxineiro
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula10/Carro.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula10.Carro
+one/digitalinnovation/gft4java/POO/Relacoes/herancas/AppHeranca.java
+ one.digitalinnovation.gft4java.POO.Relacoes.herancas.AppHeranca
 one/digitalinnovation/desafios/UniformesDeFinalDeAno.java
  one.digitalinnovation.desafios.Tshirt
  one.digitalinnovation.desafios.UniformesDeFinalDeAno
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula2.Main
+one/digitalinnovation/gft4java/POO/Relacoes/visibilidades/outropacote/Classe3.java
+ one.digitalinnovation.gft4java.POO.Relacoes.visibilidades.outropacote.Classe3
 one/digitalinnovation/desafios/EncaixaOuNao.java
  one.digitalinnovation.desafios.EncaixaOuNao
 one/digitalinnovation/avancado/javafuncional/aula3/ParallelStreamsExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula3.ParallelStreamsExemplo
+one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Aluno.java
+ one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Aluno
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula7/ListaCircular.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula7.ListaCircular
 one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComClasseAnonima.java
@@ -128,10 +188,14 @@ one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComClasseAnonima.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncaoComClasseAnonima$1
 one/digitalinnovation/avancado/javafuncional/aula2/Consumidores.java
  one.digitalinnovation.avancado.javafuncional.aula2.Consumidores
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex1_OrdemInversa.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex1_OrdemInversa
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.No
 one/digitalinnovation/colletionsandstreams/list/classes/Pessoa.java
  one.digitalinnovation.colletionsandstreams.list.classes.Pessoa
+one/digitalinnovation/gft4java/POO/Relacoes/conceitos/Veiculo.java
+ one.digitalinnovation.gft4java.POO.Relacoes.conceitos.Veiculo
 one/digitalinnovation/avancado/javafuncional/aula6/ClienteHttpExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo
  one.digitalinnovation.avancado.javafuncional.aula6.ClienteHttpExemplo$1
@@ -139,6 +203,10 @@ one/digitalinnovation/colletionsandstreams/list/test/comparators/ComparatorExamp
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ComparatorExampleList
 one/digitalinnovation/auladebug/calculadora/Calculadora.java
  one.digitalinnovation.auladebug.calculadora.Calculadora
+one/digitalinnovation/gft4java/POO/Relacoes/interfaces/Calculadora.java
+ one.digitalinnovation.gft4java.POO.Relacoes.interfaces.Calculadora
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex6_Fatorial.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex6_Fatorial
 one/digitalinnovation/colletionsandstreams/list/test/comparators/FuncionarioOrdemSalarioReversa.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.FuncionarioOrdemSalarioReversa
 one/digitalinnovation/colletionsandstreams/list/test/EqualsTest.java
@@ -149,8 +217,22 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula6/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula6.Main
 one/digitalinnovation/avancado/javafuncional/aula2/Funcoes.java
  one.digitalinnovation.avancado.javafuncional.aula2.Funcoes
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex4_ArrayMultidimensional.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex4_ArrayMultidimensional
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex3_NumerosAleatorios.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex3_NumerosAleatorios
+one/digitalinnovation/gft4java/POO/Relacoes/polimorfismo/ClasseFIlha1.java
+ one.digitalinnovation.gft4java.POO.Relacoes.polimorfismo.ClasseFIlha1
+one/digitalinnovation/gft4java/base/Order.java
+ one.digitalinnovation.gft4java.base.Order
+one/digitalinnovation/gft4java/POO/Fundamentos/Carro.java
+ one.digitalinnovation.gft4java.POO.Fundamentos.Carro
 one/digitalinnovation/colletionsandstreams/list/test/set/ExercicioSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExercicioSet
+one/digitalinnovation/gft4java/POO/Relacoes/herancas/Funcionario.java
+ one.digitalinnovation.gft4java.POO.Relacoes.herancas.Funcionario
+one/digitalinnovation/desafios/MultiplicacaoSimples.java
+ one.digitalinnovation.desafios.MultiplicacaoSimples
 one/digitalinnovation/avancado/javafuncional/aula1/Funcao.java
  one.digitalinnovation.avancado.javafuncional.aula1.Funcao
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeMap.java
@@ -163,8 +245,14 @@ one/digitalinnovation/colletionsandstreams/list/test/set/ExempleLinkedHasSet.jav
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleLinkedHasSet
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula10/MainPilha.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula10.MainPilha
+one/digitalinnovation/gft4java/MyFirstProgram.java
+ one.digitalinnovation.gft4java.MyFirstProgram
+one/digitalinnovation/gft4java/POO/Relacoes/conceitos/Moto.java
+ one.digitalinnovation.gft4java.POO.Relacoes.conceitos.Moto
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula5/ListaEncadeada.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula5.ListaEncadeada
+one/digitalinnovation/gft4java/POO/Relacoes/conceitos/Carro.java
+ one.digitalinnovation.gft4java.POO.Relacoes.conceitos.Carro
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula7/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula7.Main
 one/digitalinnovation/avancado/javafuncional/aula1/FatorialTailCall.java
@@ -173,14 +261,20 @@ one/digitalinnovation/colletionsandstreams/list/test/ListTest.java
  one.digitalinnovation.colletionsandstreams.list.test.ListTest
 one/digitalinnovation/colletionsandstreams/list/test/ListCelularTest.java
  one.digitalinnovation.colletionsandstreams.list.test.ListCelularTest
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex1_NomeEIdade.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex1_NomeEIdade
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula11/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula11.Main
 one/digitalinnovation/desafios/CombinacaoDeStrings.java
  one.digitalinnovation.desafios.CombinacaoDeStrings
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeSet
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
 one/digitalinnovation/colletionsandstreams/list/test/map/ExecicioHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExecicioHashTable
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex2_Consoantes.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex2_Consoantes
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
 one/digitalinnovation/colletionsandstreams/list/test/map/ExempleTreeMap.java
@@ -189,6 +283,8 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.No
 one/digitalinnovation/colletionsandstreams/list/test/comparators/EstudanteOrdemIdadeReversaComparator.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.EstudanteOrdemIdadeReversaComparator
+one/digitalinnovation/gft4java/POO/Fundamentos/Livro.java
+ one.digitalinnovation.gft4java.POO.Fundamentos.Livro
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/ObjArvore.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.model.ObjArvore
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/MainPilha.java
@@ -204,6 +300,8 @@ one/digitalinnovation/colletionsandstreams/list/test/stream/ExemploStreamAPI.jav
  one.digitalinnovation.colletionsandstreams.list.test.stream.ExemploStreamAPI
 one/digitalinnovation/avancado/javafuncional/aula5/InferenciaExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula5.InferenciaExemplo
+one/digitalinnovation/desafios/Xadrez.java
+ one.digitalinnovation.desafios.Xadrez
 one/digitalinnovation/avancado/javafuncional/aula6/StringRepeat.java
  one.digitalinnovation.avancado.javafuncional.aula6.StringRepeat
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula1/Main.java
@@ -216,6 +314,8 @@ one/digitalinnovation/avancado/javafuncional/aula3/ThreadExemplo1.java
  one.digitalinnovation.avancado.javafuncional.aula3.BarraDeCarregamento1
  one.digitalinnovation.avancado.javafuncional.aula3.GeradorPDF
  one.digitalinnovation.avancado.javafuncional.aula3.ThreadExemplo1
+one/digitalinnovation/desafios/Lanche.java
+ one.digitalinnovation.desafios.Lanche
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/Obj.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.model.Obj
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Pilha.java
@@ -224,121 +324,23 @@ one/digitalinnovation/colletionsandstreams/list/test/list/ExempleVector.java
  one.digitalinnovation.colletionsandstreams.list.test.list.ExempleVector
 one/digitalinnovation/colletionsandstreams/list/test/set/ExempleTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleTreeSet
+one/digitalinnovation/gft4java/condicionalEFluxos/OperadoresRelacionais.java
+ one.digitalinnovation.gft4java.condicionalEFluxos.OperadoresRelacionais
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioHashMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioHashMap
 one/digitalinnovation/desafios/ACorridaDeTartarugas.java
  one.digitalinnovation.desafios.ACorridaDeTartarugas
 one/digitalinnovation/avancado/javafuncional/aula6/StringLinesExemplo.java
  one.digitalinnovation.avancado.javafuncional.aula6.StringLinesExemplo
+one/digitalinnovation/gft4java/POO/Relacoes/polimorfismo/ClasseFilha2.java
+ one.digitalinnovation.gft4java.POO.Relacoes.polimorfismo.ClasseFilha2
+one/digitalinnovation/gft4java/entendendo_metodos/criacao/Exercicio2.java
+ one.digitalinnovation.gft4java.entendendo_metodos.criacao.Exercicio2
 one/digitalinnovation/colletionsandstreams/list/test/comparators/Funcionario.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.Funcionario
-one/digitalinnovation/ecossistemaEDocumentacaoJava/MyFirstProgram.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.MyFirstProgram
+one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEImpara.java
+ one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/criacao/Calculadora.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.criacao.Calculadora
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/criacao/Exercicio1.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.criacao.Exercicio1
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/criacao/Exercicio2.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.criacao.Exercicio2
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/criacao/Horario.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.criacao.Horario
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/criacao/Exercicio3.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.criacao.Exercicio3
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/criacao/Emprestimo.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.criacao.Emprestimo
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/sobrecarga/Quadrilatero.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.sobrecarga.Quadrilatero
-one/digitalinnovation/ecossistemaEDocumentacaoJava/entendendo_metodos/sobrecarga/Main.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.entendendo_metodos.sobrecarga.Main
-one/digitalinnovation/ecossistemaEDocumentacaoJava/condicionalEFluxos/OperadoresRelacionais.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.condicionalEFluxos.OperadoresRelacionais
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/loops/Ex1_NomeEIdade.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.loops.Ex1_NomeEIdade
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/loops/Ex2_Nota.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.loops.Ex2_Nota
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/loops/Ex3_MaiorEMedia.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.loops.Ex3_MaiorEMedia
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/loops/Ex4_ParEImpara.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/loops/Ex5_Tabuada.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.loops.Ex5_Tabuada
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/loops/Ex6_Fatorial.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.loops.Ex6_Fatorial
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/arrays/Ex1_OrdemInversa.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.arrays.Ex1_OrdemInversa
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/arrays/Ex2_Consoantes.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.arrays.Ex2_Consoantes
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/arrays/Ex3_NumerosAleatorios.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.arrays.Ex3_NumerosAleatorios
-one/digitalinnovation/ecossistemaEDocumentacaoJava/estrutura_de_repeticao/exercicios/arrays/Ex4_ArrayMultidimensional.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.estrutura_de_repeticao.exercicios.arrays.Ex4_ArrayMultidimensional
-one/digitalinnovation/desafios/MultiplicacaoSimples.java
- one.digitalinnovation.desafios.MultiplicacaoSimples
-one/digitalinnovation/desafios/Resto2.java
- one.digitalinnovation.desafios.Resto2
-one/digitalinnovation/desafios/Xadrez.java
- one.digitalinnovation.desafios.Xadrez
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Fundamentos/Livro.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Fundamentos.Livro
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Fundamentos/Carro.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Fundamentos.Carro
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Fundamentos/RodarAplicacao.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Fundamentos.RodarAplicacao
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/herancas/Vendedor.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.herancas.Vendedor
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/conceitos/Moto.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.conceitos.Moto
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/herancas/Faxineiro.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.herancas.Faxineiro
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/conceitos/Veiculo.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.conceitos.Veiculo
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/herancas/Funcionario.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.herancas.Funcionario
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/herancas/AppHeranca.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.herancas.AppHeranca
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/conceitos/Carro.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.conceitos.Carro
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/herancas/Gerente.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.herancas.Gerente
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/conceitos/Caminhao.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.conceitos.Caminhao
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/polimorfismo/ClasseFIlha1.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.polimorfismo.ClasseFIlha1
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/polimorfismo/ClasseMae.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.polimorfismo.ClasseMae
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/polimorfismo/ClasseFilha2.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.polimorfismo.ClasseFilha2
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/polimorfismo/AppPolimorfismo.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.polimorfismo.AppPolimorfismo
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/outropacote/Classe2.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.outropacote.Classe2
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/umpacote/Classe4.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.umpacote.Classe4
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Compra.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Compra
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Pessoa.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Pessoa
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/interfaces/Calculadora.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.interfaces.Calculadora
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Disciplina.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Disciplina
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Endereco.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Endereco
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/outropacote/Classe1.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.outropacote.Classe1
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/visibilidades/outropacote/Classe3.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.visibilidades.outropacote.Classe3
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/interfaces/OperacaoMatematica.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.interfaces.OperacaoMatematica
-one/digitalinnovation/desafios/BatalhaDigitrons.java
- one.digitalinnovation.desafios.BatalhaDigitrons
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Aluno.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Aluno
-one/digitalinnovation/ecossistemaEDocumentacaoJava/POO/Relacoes/associacoes/Cupom.java
- one.digitalinnovation.ecossistemaEDocumentacaoJava.POO.Relacoes.associacoes.Cupom
-one/digitalinnovation/desafios/Lanche.java
- one.digitalinnovation.desafios.Lanche
+one/digitalinnovation/gft4java/tratamento_excecoes/UncheckedException.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.UncheckedException
