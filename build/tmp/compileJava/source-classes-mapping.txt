@@ -344,3 +344,5 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
 one/digitalinnovation/gft4java/tratamento_excecoes/UncheckedException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.UncheckedException
+one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
