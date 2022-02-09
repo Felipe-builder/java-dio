@@ -346,3 +346,10 @@ one/digitalinnovation/gft4java/tratamento_excecoes/UncheckedException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.UncheckedException
 one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
+one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_1.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_1
+ one.digitalinnovation.gft4java.tratamento_excecoes.ImpossivelAberturaDeArquivoException
+one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_2.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_2
+one/digitalinnovation/gft4java/tratamento_excecoes/DivisaoNaoExataException.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.DivisaoNaoExataException
