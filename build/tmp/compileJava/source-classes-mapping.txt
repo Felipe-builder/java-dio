@@ -353,3 +353,5 @@ one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_2.java
  one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_2
 one/digitalinnovation/gft4java/tratamento_excecoes/DivisaoNaoExataException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.DivisaoNaoExataException
+one/digitalinnovation/gft4java/Collections/lists/ExemploList.java
+ one.digitalinnovation.gft4java.Collections.lists.ExemploList
