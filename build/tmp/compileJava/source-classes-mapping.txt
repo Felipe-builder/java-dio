@@ -111,6 +111,8 @@ one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Disciplina.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Disciplina
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula2.No
+one/digitalinnovation/gft4java/tratamento_excecoes/DivisaoNaoExataException.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.DivisaoNaoExataException
 one/digitalinnovation/colletionsandstreams/list/test/set/ExempleHashSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleHashSet
 one/digitalinnovation/avancado/javafuncional/aula1/Aula.java
@@ -269,12 +271,14 @@ one/digitalinnovation/desafios/CombinacaoDeStrings.java
  one.digitalinnovation.desafios.CombinacaoDeStrings
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioTreeSet
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
+one/digitalinnovation/gft4java/tratamento_excecoes/UncheckedException.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.UncheckedException
 one/digitalinnovation/colletionsandstreams/list/test/map/ExecicioHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExecicioHashTable
 one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex2_Consoantes.java
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex2_Consoantes
+one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
 one/digitalinnovation/colletionsandstreams/list/test/map/ExempleTreeMap.java
@@ -296,6 +300,8 @@ one/digitalinnovation/avancado/javafuncional/aula2/Supridores.java
  one.digitalinnovation.avancado.javafuncional.aula2.Supridores
 one/digitalinnovation/colletionsandstreams/list/test/queue/ExempleLinkedList.java
  one.digitalinnovation.colletionsandstreams.list.test.queue.ExempleLinkedList
+one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_2.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_2
 one/digitalinnovation/colletionsandstreams/list/test/stream/ExemploStreamAPI.java
  one.digitalinnovation.colletionsandstreams.list.test.stream.ExemploStreamAPI
 one/digitalinnovation/avancado/javafuncional/aula5/InferenciaExemplo.java
@@ -316,6 +322,11 @@ one/digitalinnovation/avancado/javafuncional/aula3/ThreadExemplo1.java
  one.digitalinnovation.avancado.javafuncional.aula3.ThreadExemplo1
 one/digitalinnovation/desafios/Lanche.java
  one.digitalinnovation.desafios.Lanche
+one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_1.java
+ one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_1
+ one.digitalinnovation.gft4java.tratamento_excecoes.ImpossivelAberturaDeArquivoException
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/Obj.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.model.Obj
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Pilha.java
@@ -342,16 +353,5 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEI
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/gft4java/tratamento_excecoes/UncheckedException.java
- one.digitalinnovation.gft4java.tratamento_excecoes.UncheckedException
-one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
- one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
-one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_1.java
- one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_1
- one.digitalinnovation.gft4java.tratamento_excecoes.ImpossivelAberturaDeArquivoException
-one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_2.java
- one.digitalinnovation.gft4java.tratamento_excecoes.ExceptionCustomizada_2
-one/digitalinnovation/gft4java/tratamento_excecoes/DivisaoNaoExataException.java
- one.digitalinnovation.gft4java.tratamento_excecoes.DivisaoNaoExataException
 one/digitalinnovation/gft4java/Collections/lists/ExemploList.java
  one.digitalinnovation.gft4java.Collections.lists.ExemploList
