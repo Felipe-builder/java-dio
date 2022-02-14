@@ -355,3 +355,6 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
 one/digitalinnovation/gft4java/Collections/lists/ExemploList.java
  one.digitalinnovation.gft4java.Collections.lists.ExemploList
+one/digitalinnovation/gft4java/Collections/lists/ExemploOrdenacaoList.java
+ one.digitalinnovation.gft4java.Collections.lists.ExemploOrdenacaoList
+ one.digitalinnovation.gft4java.Collections.lists.Gato
