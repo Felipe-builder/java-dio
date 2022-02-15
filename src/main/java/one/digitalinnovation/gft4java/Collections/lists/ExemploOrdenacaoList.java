@@ -2,10 +2,7 @@ package one.digitalinnovation.gft4java.Collections.lists;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class ExemploOrdenacaoList {
     public static void main(String[] args) {
@@ -26,8 +23,17 @@ public class ExemploOrdenacaoList {
         Collections.sort(gatos);
         System.out.println(gatos);
         System.out.println("--\tOrdem Idade\t---");
+        //Collections.sort(gatos, new ComparatorIdade());
+        gatos.sort(new ComparatorIdade());
+        System.out.println(gatos);
         System.out.println("--\tOrdem de cor\t---");
+//        Collections.sort(gatos, new ComparatorCor());
+        gatos.sort(new ComparatorCor());
+        System.out.println(gatos);
         System.out.println("--\tOrdem Nome/Cor/Idade\t---");
+        Collections.sort(gatos, new ComparatorNomeCorIdade());
+        gatos.sort(new ComparatorNomeCorIdade());
+        System.out.println(gatos);
     }
 }
 
@@ -81,5 +87,33 @@ class Gato implements Comparable<Gato> {
     @Override
     public int compareTo(Gato o) {
         return this.getNome().compareToIgnoreCase(o.getNome());
+    }
+}
+
+class ComparatorIdade implements Comparator<Gato> {
+
+    @Override
+    public int compare(Gato o1, Gato o2) {
+        return Integer.compare(o1.getIdade(), o2.getIdade());
+    }
+}
+
+class ComparatorCor implements Comparator<Gato> {
+
+    @Override
+    public int compare(Gato o1, Gato o2) {
+        return o1.getCor().compareToIgnoreCase(o2.getCor());
+    }
+}
+
+class ComparatorNomeCorIdade implements Comparator<Gato> {
+
+    @Override
+    public int compare(Gato o1, Gato o2) {
+        int nome = o1.getNome().compareToIgnoreCase(o2.getNome());
+        if (nome != 0) return nome;
+        int cor = o1.getCor().compareToIgnoreCase(o2.getCor());
+        if (cor != 0) return cor;
+        return Integer.compare(o1.getIdade(), o2.getIdade());
     }
 }
