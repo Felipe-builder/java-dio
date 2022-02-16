@@ -14,13 +14,19 @@ public class Main {
                 new Mes(6, "Junho", 26)
         ));
         double soma = 0;
-        double media = 0;
+        double media = meses.stream()
+                .mapToDouble(Mes::getTemperatura)
+                .average()
+                .orElse(0d);
+
+        /*
         Iterator<Mes> iterator = meses.iterator();
         while(iterator.hasNext()) {
             Mes next = iterator.next();
             soma += next.getTemperatura();
         }
         media = soma/meses.size();
+         */
         System.out.printf("Média de temperatura: %.2fºC", media);
         System.out.println();
         for (Mes mes: meses) {

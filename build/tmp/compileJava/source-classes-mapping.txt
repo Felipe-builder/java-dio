@@ -363,9 +363,9 @@ one/digitalinnovation/gft4java/Collections/lists/ExemploOrdenacaoList.java
  one.digitalinnovation.gft4java.Collections.lists.Gato
 one/digitalinnovation/gft4java/Collections/exercicios/mes/Mes.java
  one.digitalinnovation.gft4java.Collections.exercicios.mes.Mes
-one/digitalinnovation/gft4java/Collections/exercicios/mes/Main.java
- one.digitalinnovation.gft4java.Collections.exercicios.mes.Main
-one/digitalinnovation/gft4java/Collections/exercicios/crime/Pergunta.java
- one.digitalinnovation.gft4java.Collections.exercicios.crime.Pergunta
 one/digitalinnovation/gft4java/Collections/exercicios/crime/Main.java
  one.digitalinnovation.gft4java.Collections.exercicios.crime.Main
+one/digitalinnovation/gft4java/Collections/exercicios/crime/Pergunta.java
+ one.digitalinnovation.gft4java.Collections.exercicios.crime.Pergunta
+one/digitalinnovation/gft4java/Collections/exercicios/mes/Main.java
+ one.digitalinnovation.gft4java.Collections.exercicios.mes.Main
