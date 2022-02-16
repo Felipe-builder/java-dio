@@ -287,12 +287,8 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/No.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula4.No
 one/digitalinnovation/colletionsandstreams/list/test/comparators/EstudanteOrdemIdadeReversaComparator.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.EstudanteOrdemIdadeReversaComparator
-one/digitalinnovation/gft4java/Collections/lists/ExemploOrdenacaoList.java
- one.digitalinnovation.gft4java.Collections.lists.ComparatorCor
- one.digitalinnovation.gft4java.Collections.lists.ComparatorIdade
- one.digitalinnovation.gft4java.Collections.lists.ComparatorNomeCorIdade
- one.digitalinnovation.gft4java.Collections.lists.ExemploOrdenacaoList
- one.digitalinnovation.gft4java.Collections.lists.Gato
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
 one/digitalinnovation/gft4java/POO/Fundamentos/Livro.java
  one.digitalinnovation.gft4java.POO.Fundamentos.Livro
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/ObjArvore.java
@@ -359,5 +355,17 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEI
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
+one/digitalinnovation/gft4java/Collections/lists/ExemploOrdenacaoList.java
+ one.digitalinnovation.gft4java.Collections.lists.ComparatorCor
+ one.digitalinnovation.gft4java.Collections.lists.ComparatorIdade
+ one.digitalinnovation.gft4java.Collections.lists.ComparatorNomeCorIdade
+ one.digitalinnovation.gft4java.Collections.lists.ExemploOrdenacaoList
+ one.digitalinnovation.gft4java.Collections.lists.Gato
+one/digitalinnovation/gft4java/Collections/exercicios/mes/Mes.java
+ one.digitalinnovation.gft4java.Collections.exercicios.mes.Mes
+one/digitalinnovation/gft4java/Collections/exercicios/mes/Main.java
+ one.digitalinnovation.gft4java.Collections.exercicios.mes.Main
+one/digitalinnovation/gft4java/Collections/exercicios/crime/Pergunta.java
+ one.digitalinnovation.gft4java.Collections.exercicios.crime.Pergunta
+one/digitalinnovation/gft4java/Collections/exercicios/crime/Main.java
+ one.digitalinnovation.gft4java.Collections.exercicios.crime.Main
