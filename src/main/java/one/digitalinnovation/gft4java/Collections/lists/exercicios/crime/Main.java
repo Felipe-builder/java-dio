@@ -1,4 +1,4 @@
-package one.digitalinnovation.gft4java.Collections.exercicios.crime;
+package one.digitalinnovation.gft4java.Collections.lists.exercicios.crime;
 
 import java.util.*;
 

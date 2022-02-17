@@ -1,4 +1,4 @@
-package one.digitalinnovation.gft4java.Collections.exercicios.mes;
+package one.digitalinnovation.gft4java.Collections.lists.exercicios.mes;
 
 public class Mes {
 
