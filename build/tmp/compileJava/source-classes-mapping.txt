@@ -379,3 +379,5 @@ one/digitalinnovation/gft4java/Collections/sets/ExemploOrdenacaoSet.java
  one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet$1
  one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet$2
  one.digitalinnovation.gft4java.Collections.sets.Serie
+one/digitalinnovation/gft4java/Collections/sets/exercicios/ArcoIris.java
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ArcoIris
