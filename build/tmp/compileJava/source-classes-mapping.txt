@@ -381,3 +381,10 @@ one/digitalinnovation/gft4java/Collections/sets/ExemploOrdenacaoSet.java
  one.digitalinnovation.gft4java.Collections.sets.Serie
 one/digitalinnovation/gft4java/Collections/sets/exercicios/ArcoIris.java
  one.digitalinnovation.gft4java.Collections.sets.exercicios.ArcoIris
+one/digitalinnovation/gft4java/Collections/sets/exercicios/LinguagemFavorita.java
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.LinguagemFavorita
+one/digitalinnovation/gft4java/Collections/sets/exercicios/MainLinguagem.java
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemAnoNome
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemIDE
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemNomeAnoIDE
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.MainLinguagem
