@@ -388,3 +388,6 @@ one/digitalinnovation/gft4java/Collections/sets/exercicios/MainLinguagem.java
  one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemIDE
  one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemNomeAnoIDE
  one.digitalinnovation.gft4java.Collections.sets.exercicios.MainLinguagem
+one/digitalinnovation/gft4java/Collections/map/ExemploMap.java
+ one.digitalinnovation.gft4java.Collections.map.ExemploMap
+ one.digitalinnovation.gft4java.Collections.map.ExemploMap$1
