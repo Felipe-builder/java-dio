@@ -144,6 +144,13 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.Main
 one/digitalinnovation/desafios/BatalhaDigitrons.java
  one.digitalinnovation.desafios.BatalhaDigitrons
+one/digitalinnovation/gft4java/Collections/map/ExemploOrdenacaoMap.java
+ one.digitalinnovation.gft4java.Collections.map.ComparatorNome
+ one.digitalinnovation.gft4java.Collections.map.ExemploOrdenacaoMap
+ one.digitalinnovation.gft4java.Collections.map.ExemploOrdenacaoMap$1
+ one.digitalinnovation.gft4java.Collections.map.ExemploOrdenacaoMap$2
+ one.digitalinnovation.gft4java.Collections.map.ExemploOrdenacaoMap$3
+ one.digitalinnovation.gft4java.Collections.map.Livro
 one/digitalinnovation/colletionsandstreams/list/test/comparators/ExercicioComparators.java
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ExercicioComparators
 one/digitalinnovation/gft4java/POO/Fundamentos/RodarAplicacao.java
@@ -172,8 +179,14 @@ one/digitalinnovation/colletionsandstreams/list/test/list/ExempleList.java
  one.digitalinnovation.colletionsandstreams.list.test.list.ExempleList
 one/digitalinnovation/gft4java/POO/Relacoes/herancas/Faxineiro.java
  one.digitalinnovation.gft4java.POO.Relacoes.herancas.Faxineiro
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
+one/digitalinnovation/gft4java/Collections/sets/ExemploOrdenacaoSet.java
+ one.digitalinnovation.gft4java.Collections.sets.ComparatorGenero
+ one.digitalinnovation.gft4java.Collections.sets.ComparatorNomeGeneroTempoEpisodio
+ one.digitalinnovation.gft4java.Collections.sets.ComparatorTempoEpisodio
+ one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet
+ one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet$1
+ one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet$2
+ one.digitalinnovation.gft4java.Collections.sets.Serie
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula10/Carro.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula10.Carro
 one/digitalinnovation/gft4java/POO/Relacoes/herancas/AppHeranca.java
@@ -215,6 +228,8 @@ one/digitalinnovation/colletionsandstreams/list/test/comparators/ComparatorExamp
  one.digitalinnovation.colletionsandstreams.list.test.comparators.ComparatorExampleList
 one/digitalinnovation/auladebug/calculadora/Calculadora.java
  one.digitalinnovation.auladebug.calculadora.Calculadora
+one/digitalinnovation/gft4java/Collections/sets/exercicios/ArcoIris.java
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ArcoIris
 one/digitalinnovation/gft4java/POO/Relacoes/interfaces/Calculadora.java
  one.digitalinnovation.gft4java.POO.Relacoes.interfaces.Calculadora
 one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex6_Fatorial.java
@@ -291,6 +306,8 @@ one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
+one/digitalinnovation/gft4java/Collections/sets/exercicios/LinguagemFavorita.java
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.LinguagemFavorita
 one/digitalinnovation/colletionsandstreams/list/test/map/ExempleTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExempleTreeMap
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula4/No.java
@@ -336,6 +353,16 @@ one/digitalinnovation/avancado/javafuncional/aula3/ThreadExemplo1.java
  one.digitalinnovation.avancado.javafuncional.aula3.BarraDeCarregamento1
  one.digitalinnovation.avancado.javafuncional.aula3.GeradorPDF
  one.digitalinnovation.avancado.javafuncional.aula3.ThreadExemplo1
+one/digitalinnovation/gft4java/Collections/map/ExemploMap.java
+ one.digitalinnovation.gft4java.Collections.map.ExemploMap
+ one.digitalinnovation.gft4java.Collections.map.ExemploMap$1
+ one.digitalinnovation.gft4java.Collections.map.ExemploMap$2
+ one.digitalinnovation.gft4java.Collections.map.ExemploMap$3
+one/digitalinnovation/gft4java/Collections/sets/exercicios/MainLinguagem.java
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemAnoNome
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemIDE
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemNomeAnoIDE
+ one.digitalinnovation.gft4java.Collections.sets.exercicios.MainLinguagem
 one/digitalinnovation/desafios/Lanche.java
  one.digitalinnovation.desafios.Lanche
 one/digitalinnovation/gft4java/tratamento_excecoes/ExceptionCustomizada_1.java
@@ -371,25 +398,5 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEI
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/gft4java/Collections/sets/ExemploOrdenacaoSet.java
- one.digitalinnovation.gft4java.Collections.sets.ComparatorGenero
- one.digitalinnovation.gft4java.Collections.sets.ComparatorNomeGeneroTempoEpisodio
- one.digitalinnovation.gft4java.Collections.sets.ComparatorTempoEpisodio
- one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet
- one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet$1
- one.digitalinnovation.gft4java.Collections.sets.ExemploOrdenacaoSet$2
- one.digitalinnovation.gft4java.Collections.sets.Serie
-one/digitalinnovation/gft4java/Collections/sets/exercicios/ArcoIris.java
- one.digitalinnovation.gft4java.Collections.sets.exercicios.ArcoIris
-one/digitalinnovation/gft4java/Collections/sets/exercicios/LinguagemFavorita.java
- one.digitalinnovation.gft4java.Collections.sets.exercicios.LinguagemFavorita
-one/digitalinnovation/gft4java/Collections/sets/exercicios/MainLinguagem.java
- one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemAnoNome
- one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemIDE
- one.digitalinnovation.gft4java.Collections.sets.exercicios.ComparatorLinguagemNomeAnoIDE
- one.digitalinnovation.gft4java.Collections.sets.exercicios.MainLinguagem
-one/digitalinnovation/gft4java/Collections/map/ExemploMap.java
- one.digitalinnovation.gft4java.Collections.map.ExemploMap
- one.digitalinnovation.gft4java.Collections.map.ExemploMap$1
- one.digitalinnovation.gft4java.Collections.map.ExemploMap$2
- one.digitalinnovation.gft4java.Collections.map.ExemploMap$3
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
