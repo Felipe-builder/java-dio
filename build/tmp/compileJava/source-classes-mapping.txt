@@ -109,6 +109,8 @@ one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Compra.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Compra
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExercicioOptional.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.ExercicioOptional
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
 one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Disciplina.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Disciplina
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/No.java
@@ -398,5 +400,8 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEI
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
+one/digitalinnovation/gft4java/Collections/map/exercicios/Exercicio1.java
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$2
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$3

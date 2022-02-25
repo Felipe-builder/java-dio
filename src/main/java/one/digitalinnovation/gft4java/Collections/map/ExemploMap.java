@@ -19,7 +19,7 @@ public class ExemploMap {
         }};
         System.out.println(carrosPopulares.toString());
 
-        System.out.println("Substitua onsumo do gol por 15,2 km/l");
+        System.out.println("Substitua consumo do gol por 15,2 km/l");
         carrosPopulares.put("gol", 15.2);
         System.out.println(carrosPopulares);
 
