@@ -405,3 +405,6 @@ one/digitalinnovation/gft4java/Collections/map/exercicios/Exercicio1.java
  one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$1
  one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$2
  one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$3
+one/digitalinnovation/gft4java/Collections/map/exercicios/Desafio1.java
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Desafio1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Desafio1$1
