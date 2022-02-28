@@ -109,8 +109,11 @@ one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Compra.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Compra
 one/digitalinnovation/colletionsandstreams/list/test/optional/ExercicioOptional.java
  one.digitalinnovation.colletionsandstreams.list.test.optional.ExercicioOptional
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
+one/digitalinnovation/gft4java/Collections/map/exercicios/Exercicio1.java
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$2
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$3
 one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Disciplina.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Disciplina
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/No.java
@@ -306,6 +309,8 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex2_Cons
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex2_Consoantes
 one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
 one/digitalinnovation/gft4java/Collections/sets/exercicios/LinguagemFavorita.java
@@ -384,6 +389,9 @@ one/digitalinnovation/colletionsandstreams/list/test/set/ExempleTreeSet.java
  one.digitalinnovation.colletionsandstreams.list.test.set.ExempleTreeSet
 one/digitalinnovation/gft4java/condicionalEFluxos/OperadoresRelacionais.java
  one.digitalinnovation.gft4java.condicionalEFluxos.OperadoresRelacionais
+one/digitalinnovation/gft4java/Collections/map/exercicios/Desafio1.java
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Desafio1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Desafio1$1
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioHashMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioHashMap
 one/digitalinnovation/desafios/ACorridaDeTartarugas.java
@@ -400,11 +408,12 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEI
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/gft4java/Collections/map/exercicios/Exercicio1.java
- one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1
- one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$1
- one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$2
- one.digitalinnovation.gft4java.Collections.map.exercicios.Exercicio1$3
-one/digitalinnovation/gft4java/Collections/map/exercicios/Desafio1.java
- one.digitalinnovation.gft4java.Collections.map.exercicios.Desafio1
- one.digitalinnovation.gft4java.Collections.map.exercicios.Desafio1$1
+one/digitalinnovation/gft4java/Collections/map/exercicios/ExercicioProposto3.java
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ComparatorTelefone
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Contato
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$2
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$3
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$4
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$5
