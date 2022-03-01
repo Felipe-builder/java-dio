@@ -417,3 +417,5 @@ one/digitalinnovation/gft4java/Collections/map/exercicios/ExercicioProposto3.jav
  one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$3
  one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$4
  one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$5
+one/digitalinnovation/gft4java/Collections/stream/ExerciciosStreamAPI.java
+ one.digitalinnovation.gft4java.Collections.stream.ExerciciosStreamAPI
