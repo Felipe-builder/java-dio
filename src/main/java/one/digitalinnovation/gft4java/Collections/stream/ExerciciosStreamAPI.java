@@ -1,7 +1,6 @@
 package one.digitalinnovation.gft4java.Collections.stream;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
@@ -23,6 +22,8 @@ public class ExerciciosStreamAPI {
                 .collect(Collectors.toList());
         listNumber.forEach(System.out::println);
 
+        List<Integer> listNumber1 = new ArrayList<>(listNumber);
+
         System.out.println("Pegue os números pares e maiores que 2 e coloque em uma lista");
         numerosAleatorios.stream()
                 .map(Integer::parseInt)
@@ -39,5 +40,46 @@ public class ExerciciosStreamAPI {
         System.out.println("Remova os valores ímpares");
         listNumber.removeIf(i -> i % 2 != 0);
         System.out.println(listNumber);
+
+        System.out.println("Ignore os 3 primeiros elementos da lista e imprima o restante: ");
+        numerosAleatorios.stream()
+                .skip(3)
+                .forEach(System.out::println);
+
+        System.out.println("Retirando os números repetidos da lista, quantos números ficam? ");
+        long quantidadeNumerosUnicos = listNumber.stream()
+                .distinct()
+                .count();
+        System.out.println(quantidadeNumerosUnicos);
+        System.out.println(listNumber);
+
+        System.out.println("O menor valor da lista: ");
+        numerosAleatorios.stream()
+                .mapToInt(Integer::parseInt)
+                .min()
+                .ifPresent(System.out::println);
+
+        System.out.println("O maior valor da lista: ");
+        numerosAleatorios.stream()
+                .mapToInt(Integer::parseInt)
+                .max()
+                .ifPresent(System.out::println);
+
+        System.out.println("Pegue apenas os númeors ímpares e some: ");
+        int sum = listNumber.stream()
+                .filter(n -> (n % 2 != 0))
+                .mapToInt(Integer::intValue)
+                .sum();
+        System.out.println(sum);
+
+        System.out.println("Mostre a lista na ordem númerica: ");
+        numerosAleatorios.stream()
+                .sorted(Comparator.naturalOrder())
+                .forEach(System.out::println);
+
+        System.out.println("Agrupe os valores impares multiplos de 3 ou de 5: ");
+        Map<Boolean, List<Integer>> collect = listNumber1.stream()
+                .collect(Collectors.groupingBy(n -> (n % 3 == 0 || n % 5 == 0)));
+        System.out.println(collect);
     }
 }
