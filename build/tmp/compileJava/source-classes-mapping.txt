@@ -419,3 +419,5 @@ one/digitalinnovation/gft4java/Collections/map/exercicios/ExercicioProposto3.jav
  one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$5
 one/digitalinnovation/gft4java/Collections/stream/ExerciciosStreamAPI.java
  one.digitalinnovation.gft4java.Collections.stream.ExerciciosStreamAPI
+one/digitalinnovation/gft4java/desafios/FasesDaLua.java
+ one.digitalinnovation.gft4java.desafios.FasesDaLua
