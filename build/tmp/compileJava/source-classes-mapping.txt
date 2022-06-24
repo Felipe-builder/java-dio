@@ -34,6 +34,8 @@ one/digitalinnovation/avancado/javafuncional/aula1/FatorialMemoization.java
  one.digitalinnovation.avancado.javafuncional.aula1.FatorialMemoization
 one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Endereco.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Endereco
+one/digitalinnovation/gft4java/desafios/ReservatorioDeMel.java
+ one.digitalinnovation.gft4java.desafios.ReservatorioDeMel
 one/digitalinnovation/gft4java/POO/Relacoes/associacoes/Pessoa.java
  one.digitalinnovation.gft4java.POO.Relacoes.associacoes.Pessoa
 one/digitalinnovation/gft4java/POO/Relacoes/polimorfismo/AppPolimorfismo.java
@@ -166,6 +168,8 @@ one/digitalinnovation/desafios/ExebindoNumerosPares.java
  one.digitalinnovation.desafios.ExebindoNumerosPares
 one/digitalinnovation/avancado/javafuncional/aula1/FuncaoComLambda.java
  one.digitalinnovation.avancado.javafuncional.aula1.FuncaoComLambda
+one/digitalinnovation/gft4java/Collections/stream/ExerciciosStreamAPI.java
+ one.digitalinnovation.gft4java.Collections.stream.ExerciciosStreamAPI
 one/digitalinnovation/gft4java/POO/Relacoes/herancas/Gerente.java
  one.digitalinnovation.gft4java.POO.Relacoes.herancas.Gerente
 one/digitalinnovation/gft4java/Collections/lists/exercicios/crime/Main.java
@@ -205,6 +209,8 @@ one/digitalinnovation/estruturadedados/conceitosbasicos/aula2/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula2.Main
 one/digitalinnovation/gft4java/POO/Relacoes/visibilidades/outropacote/Classe3.java
  one.digitalinnovation.gft4java.POO.Relacoes.visibilidades.outropacote.Classe3
+one/digitalinnovation/gft4java/api/httpexamples/getRequest.java
+ one.digitalinnovation.gft4java.api.httpexamples.getRequest
 one/digitalinnovation/desafios/EncaixaOuNao.java
  one.digitalinnovation.desafios.EncaixaOuNao
 one/digitalinnovation/avancado/javafuncional/aula3/ParallelStreamsExemplo.java
@@ -307,10 +313,19 @@ one/digitalinnovation/colletionsandstreams/list/test/map/ExecicioHashTable.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExecicioHashTable
 one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/arrays/Ex2_Consoantes.java
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.arrays.Ex2_Consoantes
+one/digitalinnovation/gft4java/desafios/SenhaFixa.java
+ one.digitalinnovation.gft4java.desafios.SenhaFixa
 one/digitalinnovation/gft4java/tratamento_excecoes/CheckedException.java
  one.digitalinnovation.gft4java.tratamento_excecoes.CheckedException
-one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
- one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
+one/digitalinnovation/gft4java/Collections/map/exercicios/ExercicioProposto3.java
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ComparatorTelefone
+ one.digitalinnovation.gft4java.Collections.map.exercicios.Contato
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$1
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$2
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$3
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$4
+ one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$5
 one/digitalinnovation/colletionsandstreams/list/test/map/ExercicioTreeMap.java
  one.digitalinnovation.colletionsandstreams.list.test.map.ExercicioTreeMap
 one/digitalinnovation/gft4java/Collections/sets/exercicios/LinguagemFavorita.java
@@ -381,6 +396,8 @@ one/digitalinnovation/gft4java/Collections/lists/ExemploList.java
  one.digitalinnovation.gft4java.Collections.lists.ExemploList
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula8/model/Obj.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula8.model.Obj
+one/digitalinnovation/gft4java/desafios/FasesDaLua.java
+ one.digitalinnovation.gft4java.desafios.FasesDaLua
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula3/Pilha.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula3.Pilha
 one/digitalinnovation/colletionsandstreams/list/test/list/ExempleVector.java
@@ -408,16 +425,5 @@ one/digitalinnovation/gft4java/estrutura_de_repeticao/exercicios/loops/Ex4_ParEI
  one.digitalinnovation.gft4java.estrutura_de_repeticao.exercicios.loops.Ex4_ParEImpara
 one/digitalinnovation/estruturadedados/conceitosbasicos/aula9/Main.java
  one.digitalinnovation.estruturadedados.conceitosbasicos.aula9.Main
-one/digitalinnovation/gft4java/Collections/map/exercicios/ExercicioProposto3.java
- one.digitalinnovation.gft4java.Collections.map.exercicios.ComparatorTelefone
- one.digitalinnovation.gft4java.Collections.map.exercicios.Contato
- one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3
- one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$1
- one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$2
- one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$3
- one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$4
- one.digitalinnovation.gft4java.Collections.map.exercicios.ExercicioProposto3$5
-one/digitalinnovation/gft4java/Collections/stream/ExerciciosStreamAPI.java
- one.digitalinnovation.gft4java.Collections.stream.ExerciciosStreamAPI
-one/digitalinnovation/gft4java/desafios/FasesDaLua.java
- one.digitalinnovation.gft4java.desafios.FasesDaLua
+one/digitalinnovation/colletionsandstreams/list/test/stream/ExercicioStream.java
+ one.digitalinnovation.colletionsandstreams.list.test.stream.ExercicioStream
